@@ -1,0 +1,4 @@
+contact_links:
+  - name: Ask a Question or Get Help
+    url: https://discuss.kubernetes.io  
+    about: Please ask and answer questions here.
