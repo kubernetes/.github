@@ -1,6 +1,6 @@
 # .github
 
-This repo contails org-wide default [community-health check files](https://docs.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file#supported-file-types).
+This repo contains org-wide default [community-health check files](https://docs.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file#supported-file-types).
 
 Currently, this repo only contains the org-wide default `SECURITY.md` file.
 All other template files are located at https://github.com/kubernetes/kubernetes-template-project.
